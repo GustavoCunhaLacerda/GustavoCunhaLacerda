@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on development of my own blog/site
 - 🌱 I'm currently a student of Computer Science
-- ⚡ Fun fact: I love rubik's cubes and math
+- ⚡ Fun fact: I love rubik's cube and math
 
 ### Connect with me:
 
