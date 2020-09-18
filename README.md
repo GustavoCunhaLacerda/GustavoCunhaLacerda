@@ -16,4 +16,4 @@
 
 [blog]: https://gustavo-lacerda-blog.netlify.app/
 [twitter]: https://twitter.com/gustavoC_L
-[linkedin]: https://linkedin.com
+[linkedin]: https://www.linkedin.com/in/gustavo-cunha-lacerda-6aa8b81b7/
