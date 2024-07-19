@@ -1,6 +1,6 @@
 ### Hi, I'm Gustavo 👋
 
-- 🌱 I'm currently a student of Computer Science
+- 🌱 I'm a Computer Scientist
 - ⚡ Fun fact: I love rubik's cube and math
 
 ### Connect with me:
