@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 100%; border: none;"/>
+       <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
