@@ -1,4 +1,4 @@
-### Hi, I'm Gustavo 👋
+<!-- ### Hi, I'm Gustavo 👋
 
 - 🌱 I'm a Computer Scientist
 - ⚡ Fun fact: I love rubik's cube and math
@@ -19,4 +19,61 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" /> -->
+
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+      ```bash
+       𝔾𝕌𝕊𝕋𝔸𝕍𝕆 ℂ𝕌ℕℍ𝔸 𝕃𝔸ℂ𝔼ℝ𝔻𝔸
+      ```
+      </p>
+    ```bash
+    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+    │
+    ├── /𝐁𝐈𝐎
+    │    ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ
+    │    ├── B.S. in Computer Science (IFB)
+    │    └── Full Stack Developer @ DATAPREV
+    │
+    ├── /𝐎𝐒
+    │    └── /ᴡɪɴᴅᴏᴡꜱ
+    │        └── /Wɪɴᴅᴏᴡꜱ_𝟣0/11
+    │
+    ├── /𝐒𝐓𝐀𝐂𝐊
+    │    ├── php.php
+    │    ├── vue.vue
+    │    ├── python.py
+    │    ├── c#.cs
+    │    ├── ᴀꜱᴅꜰꜱꜰ
+    │    ├── c.c
+    │    ├── JavaScript.js
+    │    ├── TypeScript.ts
+    │    ├── React/ReactNative.tsx
+    │    ├── ʟᴜᴀ.ʟᴜᴀ
+    │
+    └── /𝐈𝐃𝐄𝐬
+        ├── ᴠꜱᴄᴏᴅᴇ
+        └── NEOVIM
+  ```
+  </tr>
+</table>
+
+<details>
+<summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCunhaLacerda&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&hide=jupyter notebook&layout=pie" height="163," alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=GustavoCunhaLacerda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="163" alt="stats graph"  />
+<br>
+</details>
+
+
+
+
+
+                                                                                                          
+                                                                                                          
+
