@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td style="width: 50%;">
-       <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 200%; border: none;"/>
+    <td style="width: 40%;">
+       <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
@@ -11,8 +11,8 @@
     /ABOUT ME
     │
     ├── /BIO
-    │    ├── He/Him - Brazilian
-    │    ├── Computer Science (IFB)
+    │    ├── He/Him - Brazilian - (PT/BR & English)
+    │    ├── B.S. in Computer Science (IFB)
     │    └── Full Stack Developer @ DATAPREV
     │
     ├── /OS
