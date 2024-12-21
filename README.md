@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="width: 40%;">
+    <td style="width: 40%; ">
        <img src="https://raw.githubusercontent.com/GustavoCunhaLacerda/GustavoCunhaLacerda/refs/heads/master/imagem.jpg" alt="Angel" style="width: 370px; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
