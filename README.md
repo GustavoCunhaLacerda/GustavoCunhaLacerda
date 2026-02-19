@@ -40,7 +40,9 @@
 <details>
 <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCunhaLacerda&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&layout=pie" height="163," alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=GustavoCunhaLacerda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="163" alt="stats graph"  />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=GustavoCunhaLacerda&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GustavoCunhaLacerda&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoCunhaLacerda&layout=compact&theme=github_dark" />
 <br>
 </details>
 
