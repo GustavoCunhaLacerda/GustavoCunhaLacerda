@@ -41,15 +41,9 @@
 <summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
 <br>
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-stats-fast.vercel.app/api?username=GustavoCunhaLacerda&show_icons=true&theme=github_dark" height="100" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GustavoCunhaLacerda&theme=github_dark" height="100" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoCunhaLacerda&layout=compact&theme=github_dark" height="100" />
-=======
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GustavoCunhaLacerda&show_icons=true&theme=github_dark" height="195" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GustavoCunhaLacerda&theme=github_dark" height="195" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoCunhaLacerda&layout=compact&theme=github_dark" height="195" />
->>>>>>> fa14bafb169bb542de8082812c6655bee44529a0
 </p>
 </details>
 
